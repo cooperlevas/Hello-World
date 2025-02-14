@@ -7,4 +7,4 @@
 - [ADDITIONAL DOCUMENTATION](#additonal-documentation)
 - [VERSONING](#versoning)
 
-## Area of a Triangle(#Project-Title)
+## Area of a Triangle
