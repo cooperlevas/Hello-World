@@ -7,4 +7,4 @@
 - [ADDITIONAL DOCUMENTATION](#additonal-documentation)
 - [VERSONING](#versoning)
 
-  
+## Area o a Triangle
