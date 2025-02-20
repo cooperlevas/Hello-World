@@ -8,3 +8,4 @@
 - [VERSONING](#versoning)
 
 ## PROJECT TITLE
+Area of a triangle python code
