@@ -9,3 +9,6 @@
 
 ## PROJECT TITLE
 Area of a triangle python code
+
+## Description
+This file shows the python code in order to get the area of any triangle. Use it to input all three sides and get your area
